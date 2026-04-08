@@ -1,7 +1,4 @@
 SE 3006 Software Architectures
+The lab is designed to introduce various software architecture styles.
 
-This repository contains the materials and instructions for the first laboratory session of the SE 3004 Software Architectures course, offered by the Department of Software Engineering at Muğla Sıtkı Koçman University (MSKÜ). This lab is designed to introduce students to various software architecture styles.
-
-Each lab folder is an independent project. You should be able to import the project directly in your favorite IDE.
-
-I fixed and tested some peace of code to understand Layered Architecture with Pure Java
+In this lab, I fixed and tested some peace of code to understand Layered Architecture with Pure Java
