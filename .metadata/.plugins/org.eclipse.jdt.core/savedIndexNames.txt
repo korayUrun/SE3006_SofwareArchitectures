@@ -1,0 +1,1 @@
+INDEX VERSION 1.134+/Users/koray/Desktop/SE3006_SofwareArchitectures/.metadata/.plugins/org.eclipse.jdt.core
