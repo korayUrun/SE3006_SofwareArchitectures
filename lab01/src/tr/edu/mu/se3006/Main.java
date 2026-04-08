@@ -17,6 +17,7 @@ public class Main {
         System.out.println("--- Test Scenarios ---");
         // TODO 4: Call handleUserRequest via the controller to test the system
         // e.g., controller.handleUserRequest(1L, 2);
-        orderController.handleUserRequest(1L, 2); // Should succeed
+        orderController.handleUserRequest(1L, 2); // succeed
+        orderController.handleUserRequest(2L, 30); // fail 
     }
 }
